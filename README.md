@@ -9,3 +9,26 @@ El propósito de estos talleres es practicar problemas de programación en **Lee
 - 📍 **Lugar:** Salón F201
 - 🕐 **Día y hora:** Todos los Jueves a las 4:00 PM
 
+## 📁 Estructura
+
+📦 leetcode-workshops
+ ├── 📁 problems/                 # Problemas de LeetCode organizados por nivel
+ │   ├── 📁 easy/                 # Problemas fáciles
+ │   ├── 📁 medium/               # Problemas intermedios
+ │   ├── 📁 hard/                 # Problemas avanzados
+ │   ├── 📁 weekly-challenges/    # Problemas discutidos en cada taller
+ ├── 📁 solutions/                # Soluciones explicadas
+ │   ├── 📁 python/               # Soluciones en Python
+ ├── 📁 resources/                # Material de apoyo
+ │   ├── 📁 cheat-sheets/         # Hojas de referencia
+ │   ├── 📁 books/                # Libros recomendados
+ │   ├── 📄 links.md              # Recursos en línea
+ ├── 📄 README.md                 # Descripción del repositorio
+
+## 📖 Recursos Sugeridos
+- [LeetCode](https://leetcode.com/)
+- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [Estructuras de Datos y Algoritmos en Python](https://github.com/TheAlgorithms/Python)
+
+Todo el contenido de este repositorio será actualizado exclusivamente por los encargados de los talleres. ¡Nos vemos en el allá! 🚀
